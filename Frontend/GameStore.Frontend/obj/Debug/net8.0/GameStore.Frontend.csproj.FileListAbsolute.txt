@@ -1,0 +1,56 @@
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/appsettings.Development.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/appsettings.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.staticwebassets.runtime.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.deps.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.runtimeconfig.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.pdb
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.AssemblyInfoInputs.cache
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.AssemblyInfo.cs
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.csproj.CoreCompileInputs.cache
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.build.GameStore.Frontend.props
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameStore.Frontend.props
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameStore.Frontend.props
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/refint/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.pdb
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.genruntimeconfig.cache
+/Users/cheney/Desktop/Projects/dotNet/Tutorial Source Code/blazor.zip/GameStore.Frontend/obj/Debug/net8.0/ref/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/appsettings.Development.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/appsettings.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.staticwebassets.runtime.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.deps.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.runtimeconfig.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/bin/Debug/net8.0/GameStore.Frontend.pdb
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.AssemblyInfoInputs.cache
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.AssemblyInfo.cs
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.csproj.CoreCompileInputs.cache
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.build.GameStore.Frontend.props
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameStore.Frontend.props
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameStore.Frontend.props
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/refint/GameStore.Frontend.dll
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.pdb
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/GameStore.Frontend.genruntimeconfig.cache
+/Users/cheney/Desktop/Projects/GameStore Full Stack Project/Frontend/GameStore.Frontend/obj/Debug/net8.0/ref/GameStore.Frontend.dll
